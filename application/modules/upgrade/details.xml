@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="0.4">
+	<name>
+		<en>Upgrade</en>
+		<es>Upgrade</es>
+		<fr>Upgrade</fr>
+		<de>Upgrade</de>
+		<pl>Upgrade</pl>
+	</name>
+	<description>
+		<en>Upgrades PyroCMS to the newest version.</en>
+		<es>Upgrades PyroCMS to the newest version.</es>
+		<fr>Upgrades PyroCMS to the newest version.</fr>
+		<de>Upgrades PyroCMS to the newest version.</de>
+		<pl>Upgrades PyroCMS to the newest version.</pl>
+	</description>
+	<is_frontend>1</is_frontend>
+	<is_backend>0</is_backend>
+	<controllers>
+		<controller name="upgrade">
+			<method>index</method>
+		</controller>
+	</controllers>
+</module>
